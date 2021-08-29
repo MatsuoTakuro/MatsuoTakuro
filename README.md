@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MatsuoTakuro)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=MatsuoTakuro&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsuoTakuro&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatsuoTakuro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MatsuoTakuro/MatsuoTakuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
