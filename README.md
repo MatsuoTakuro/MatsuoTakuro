@@ -4,6 +4,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatsuoTakuro&layout=compact&theme=tokyonight)](https://github.com/MatsuoTakuro)
 ![](https://komarev.com/ghpvc/?username=MatsuoTakuro)
 
+<!-- 参考記事・ソース
+https://zenn.dev/yutakatay/articles/kirakira-github-profile
+https://github.com/lowlighter/metrics -->
+
 <!--
 **MatsuoTakuro/MatsuoTakuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
