@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!-- ## [solarized_dark](./solarized_dark/README.md) -->
-[![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- ## [dracula](./dracula/README.md) -->
+[![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MatsuoTakuro/MatsuoTakuro/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsuoTakuro&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatsuoTakuro&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/MatsuoTakuro) -->
